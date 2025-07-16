@@ -87,9 +87,7 @@ This project addresses the problem of fake news detection by training a model to
   ✅ **Real News**
 
 ---
-
 ## 🙋‍♂️ Author
-
 **Japanjot Singh**  
 Data Scientist & ML Enthusiast  
 📬 sjapanjots@gmail.com
