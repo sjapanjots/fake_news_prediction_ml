@@ -51,11 +51,8 @@ This project addresses the problem of fake news detection by training a model to
    - **0** → Fake news  
    - **1** → Real news
 4. The result is displayed immediately in the UI.
-
 ---
-
 ## 📦 How to Run Locally
-
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/sjapanjots/fake_news_prediction_ml.git
@@ -73,16 +70,13 @@ This project addresses the problem of fake news detection by training a model to
    ```
 
 4. Go to `http://localhost:8501` in your browser to use the app.
-
 ---
-
 ## ✅ Example Usage
 
 - **Input**:
   ```
   The Prime Minister has announced new economic reforms during a press conference...
   ```
-
 - **Output**:  
   ✅ **Real News**
 
